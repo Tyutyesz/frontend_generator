@@ -1,0 +1,30 @@
+{
+  "name": "@tyutyesz/frontend_generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyutyesz/frontend_generator.git"
+  },
+  "keywords": [
+    "webpack",
+    "frontend",
+    "development"
+  ],
+  "bin": {
+    "frontend": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "author": "Csorba Mátyás",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyutyesz/frontend_generator/issues"
+  },
+  "homepage": "https://github.com/Tyutyesz/frontend_generator#readme",
+  "dependencies": {}
+}
