@@ -1,6 +1,6 @@
-#Frontend Generator
+# Frontend Generator
 
-###Getting Started
+### Getting Started
 
 Coming soon
 
