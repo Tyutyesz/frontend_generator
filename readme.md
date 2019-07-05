@@ -5,5 +5,5 @@
 Coming soon
 
 
-Powered by [Melkweg Digital](https://melkweg.hu/)
+Powered by [MelkwegDigital](https://melkweg.hu/)
    
