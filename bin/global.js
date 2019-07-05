@@ -2,4 +2,4 @@
 
 const frontend = require('../lib/index');
 
-frontend.init();
+frontend.init.init();
